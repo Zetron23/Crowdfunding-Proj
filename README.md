@@ -25,7 +25,7 @@ Before starting, ensure you have Node.js and Vite installed on your system. Foll
 
 ```bash
 # Clone the repository
-git clone https://github.com/anshkirdak/web3-crowdfunding.git
+git clone https://github.com/Zetron23/web3-crowdfunding.git
 
 # Navigate to the project directory
 cd web3-crowdfunding
@@ -69,4 +69,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 - **Name**: Ansh Kirdak
 - **Registration Number**: AP22110010346
-- **Project Link**: [https://github.com/anshkirdak/web3-crowdfunding](https://github.com/anshkirdak/web3-crowdfunding)
+- **Project Link**: [https://github.com/anshkirdak/web3-crowdfunding](https://github.com/Zetron23/web3-crowdfunding)
